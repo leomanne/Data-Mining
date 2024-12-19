@@ -2,4 +2,5 @@ Example
 .vscode
 .DS_Store
 .*
+*.csv
 <env/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib>
