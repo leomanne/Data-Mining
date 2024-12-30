@@ -4,4 +4,5 @@ Example
 .*
 *.csv
 dataset
+models
 <env/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib>
