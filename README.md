@@ -6,8 +6,9 @@ Private repository for the delivery of the Data Mining project.
 It is structured as follows:
 
 - **project.pdf**: pdf with the project specification;
+- **report.pdf**: pdf with the report that explains and highlights the work done
 - **dataset**: folder containing the initial datasets, all the intermediate datasets will also be saved here;
-- **models**: folder where the models generated in task 4 will be saved;
+- **models**: folder (which is not initially present) where the models generated in task 4 will be saved;
 - **5 Jupyter Notebook**: one for each task required.
 
 ### Requirements for code execution
